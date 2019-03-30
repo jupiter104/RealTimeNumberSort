@@ -1,0 +1,7 @@
+C:\Users\Debashis\source\repos\RealTimeNumberSort\RealTimeNumberSort\bin\Debug\RealTimeNumberSort.exe.config
+C:\Users\Debashis\source\repos\RealTimeNumberSort\RealTimeNumberSort\bin\Debug\RealTimeNumberSort.exe
+C:\Users\Debashis\source\repos\RealTimeNumberSort\RealTimeNumberSort\bin\Debug\RealTimeNumberSort.pdb
+C:\Users\Debashis\source\repos\RealTimeNumberSort\RealTimeNumberSort\obj\Debug\RealTimeNumberSort.csprojAssemblyReference.cache
+C:\Users\Debashis\source\repos\RealTimeNumberSort\RealTimeNumberSort\obj\Debug\RealTimeNumberSort.csproj.CoreCompileInputs.cache
+C:\Users\Debashis\source\repos\RealTimeNumberSort\RealTimeNumberSort\obj\Debug\RealTimeNumberSort.exe
+C:\Users\Debashis\source\repos\RealTimeNumberSort\RealTimeNumberSort\obj\Debug\RealTimeNumberSort.pdb
